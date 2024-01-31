@@ -1,0 +1,72 @@
+{
+  "customers": [
+    {
+      "name": "Elisha",
+      "email": "elisha@gmail.com"
+    },
+    {
+      "name": "John Doi",
+      "email": "john@gmail.com"
+    },
+    {
+      "name": "Michel Mario",
+      "email": "marko@gmail.com"
+    },
+    {
+      "name": "Alex sancheu",
+      "email": "alex@gmail.com"
+    },
+    {
+      "name": "San Mairno",
+      "email": "san@gmail.com"
+    },
+    {
+      "name": "James Chuck",
+      "email": "james@gmail.com"
+    },
+    {
+      "name": "Criel sandie",
+      "email": "sandie@gmail.com"
+    },
+    {
+      "name": "Samuel ellito",
+      "email": "samuel@gmail.com"
+    },
+    {
+      "name": "Jack Robert Pa",
+      "email": "jack@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "WidgetX Pro"
+    },
+    {
+      "name": "TurboCharger 5000"
+    },
+    {
+      "name": "Solaris Smartwatch"
+    },
+    {
+      "name": "FusionBlade Blender"
+    },
+    {
+      "name": "StellarGrip Resistance Bands"
+    },
+    {
+      "name": "QuantumFlex Yoga Mat"
+    },
+    {
+      "name": "ThunderBlast Wireless Speaker"
+    },
+    {
+      "name": "NanoGlow LED Light Bulbs"
+    },
+    {
+      "name": "TitanTech Backpack"
+    },
+    {
+      "name": "InfinityEdge Gaming Mouse"
+    }
+  ]
+}
